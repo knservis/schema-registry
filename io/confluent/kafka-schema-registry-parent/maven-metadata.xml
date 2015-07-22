@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.confluent</groupId>
+  <artifactId>kafka-schema-registry-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150722063610</lastUpdated>
+  </versioning>
+</metadata>
